@@ -1,0 +1,17 @@
+{
+  "name": "com.aresdev.testplugin",
+  "version": "1.0.0",
+  "description": "Demo Angular Medellín",
+  "cordova": {
+    "id": "com.aresdev.testplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "AresDev",
+  "license": "ISC"
+}
